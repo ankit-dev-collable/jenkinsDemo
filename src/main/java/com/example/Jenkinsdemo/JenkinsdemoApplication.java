@@ -8,6 +8,7 @@ public class JenkinsdemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(JenkinsdemoApplication.class, args);
+		
 		System.out.println("hello");
 
 		System.out.println("hello");
@@ -16,6 +17,9 @@ public class JenkinsdemoApplication {
 		
 
 		System.out.println("code changes for jenkins demo in spring tools suit");
+		System.out.println("jenkins demo for code commit");
+        System.out.println("hello");
+
 		
 
 
